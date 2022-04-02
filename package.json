@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "MWT",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.71.0",
+    "webpack-cli": "^4.9.2"
+  }
 }
