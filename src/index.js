@@ -1,11 +1,14 @@
-import _ from 'lodash';
-function component() {
-    const element = document.createElement('div');
-  
-    // Lodash, now imported by this script
-    element.innerHTML = _.join(['Hello', 'webpack'], ' ');
-  
-    return element;
-  }
-  
-  document.body.appendChild(component());
+// import App from "./modules/App";
+
+
+// window.addEventListener('load', function() {
+
+//   const app = new App();
+
+// });
+
+// import MemoryManager from './components/MemoryManager.js';
+
+// window.addEventListener('load', function(){
+//     const game = new MemoryManager();
+// })
