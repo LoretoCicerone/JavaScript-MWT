@@ -38,7 +38,9 @@ export function MemoryRules(){
             return;
         }
 
+        //flip second card
         secondCard = this;
+
         areCardsEqual();
     }
 
