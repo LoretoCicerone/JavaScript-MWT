@@ -1,51 +1,61 @@
 export const PLAYERS = [
     {
         name: 'Pirlo',
-        img: './src/assets/cards/AndreaPirlo.png'
+        img: './src/assets/AndreaPirlo.png'
     },
+    
     {
         name: 'Pirlo',
-        img: './src/assets/cards/AndreaPirlo.png'
+        img: './src/assets/AndreaPirlo.png'
     },
+
     {
         name: 'Modric',
-        img: './src/assets/cards/LukaModric.png'
+        img: './src/assets/LukaModric.png'
     },
+
     {
         name: 'Modric',
-        img: './src/assets/cards/LukaModric.png'
+        img: './src/assets/LukaModric.png'
     },
+
     {
         name: 'Zidane',
-        img: './src/assets/cards/ZinedineZidane.png'
+        img: './src/assets/ZinedineZidane.png'
     },
+
     {
         name: 'Zidane',
-        img: './src/assets/cards/ZinedineZidane.png'
+        img: './src/assets/ZinedineZidane.png'
     },
     {
         name: 'Xavi',
-        img: './src/assets/cards/Xavi.png'
+        img: './src/assets/Xavi.png'
     },
+
     {
         name: 'Xavi',
-        img: './src/assets/cards/Xavi.png'
+        img: './src/assets/Xavi.png'
     },
+
     {
         name: 'Iniesta',
-        img: './src/assets/cards/AndresIniesta.png'
+        img: './src/assets/AndresIniesta.png'
     },
-    , {
+     
+    {
         name: 'Iniesta',
-        img: './src/assets/cards/AndresIniesta.png'
+        img: './src/assets/AndresIniesta.png'
     },
+
     {
         name: 'DeRossi',
-        img: './src/assets/cards/DeRossi.png'
+        img: './src/assets/DeRossi.png'
     },
+
     {
         name: 'DeRossi',
-        img: './src/assets/cards/DeRossi.png'
+        img: './src/assets/DeRossi.png'
     }
 
 ]

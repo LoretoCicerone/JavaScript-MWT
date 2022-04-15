@@ -1,14 +1,5 @@
-// import App from "./modules/App";
+import MemoryGameManager from './modules/MemoryGameManager.js';
 
-
-// window.addEventListener('load', function() {
-
-//   const app = new App();
-
-// });
-
-// import MemoryManager from './components/MemoryManager.js';
-
-// window.addEventListener('load', function(){
-//     const game = new MemoryManager();
-// })
+window.addEventListener('load', function(){
+    const startGame = new MemoryGameManager();
+})

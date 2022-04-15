@@ -37,7 +37,7 @@ function CreateButton(){
     this.reload = reload;
 }
 
-export default CreaBottone;
+export default CreateButton;
 
 const styles = {
     RICARICA: {

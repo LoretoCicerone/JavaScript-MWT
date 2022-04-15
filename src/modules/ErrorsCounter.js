@@ -1,6 +1,6 @@
 import { setStyle } from "../utils/setStyle";
 
-function CounterErrori(){
+function ErrorsCounter(){
     const posizione_errore = document.createElement('div');
     setStyle(posizione_errore, styles.POSIZIONE_ERRORE);
     document.body.appendChild(posizione_errore);
@@ -14,7 +14,7 @@ function CounterErrori(){
     this.counter_errori = counter_errori;//??
 }
 
-export default CounterErrori;
+export default ErrorsCounter;
 
 const styles = {
     POSIZIONE_ERRORE: {
