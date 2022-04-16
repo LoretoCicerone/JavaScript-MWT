@@ -86,7 +86,7 @@ const styles = {
         padding: '20px',
         position: 'absolute',
         borderRadius: '5px',
-        background: '#1C7CCC',
+        background: '#000000',
         backfaceVisibility: 'hidden',
         margin: '0',
         boxSizing: 'border-box',

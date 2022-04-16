@@ -6,7 +6,7 @@ function MemoryGameManager(){
     setStyle(document.body, {
         height: '100vh',
         display: 'flex',
-        background: '#060AB2',
+        background: '#ffffff',
     });
 
     const game = new MemoryRules();

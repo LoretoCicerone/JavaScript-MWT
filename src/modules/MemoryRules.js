@@ -97,8 +97,9 @@ export function MemoryRules(){
         }
         if(error == 5){
             errorsCounter.textContent = "Game Over!";
-            gameOver(); //???
+          //  gameOver(); //???
             error = 0;
+            return;
             
             
         }
